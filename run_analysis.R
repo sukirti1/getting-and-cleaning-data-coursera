@@ -1,5 +1,5 @@
 # set working directory
-setwd("/Users/sukarora/Desktop/coursera")
+setwd("/Users/sukirti1/Desktop/coursera")
 
 # download the file from the link and unzip it in the working directory
 if(!dir.exists("UCI HAR Dataset")){
